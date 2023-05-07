@@ -15,3 +15,5 @@ This is a fitness chatbot that provides users with useful tools and information 
 > - Telebot: The bot utilizes the Telebot library to interact with the Telegram Bot API.
 > - SQLite: The bot utilizes SQLite database to store warm-up exercises and workout plans.
 > - Markdown: The bot utilizes Markdown formatting to present information in a clear and organized manner.
+
+![Alt Text](https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343431.jpg)
