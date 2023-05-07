@@ -16,7 +16,8 @@ This is a fitness chatbot that provides users with useful tools and information 
 > - SQLite: The bot utilizes SQLite database to store warm-up exercises and workout plans.
 > - Markdown: The bot utilizes Markdown formatting to present information in a clear and organized manner.
 
-![Alt Text](https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343431.jpg)
-![Alt Text](https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343432.jpg)
-![Alt Text](https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343433.jpg)
-![Alt Text](https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343434.jpg)
+<img src="https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343431.jpg" alt="Screenshot 1" width="300">
+<img src="https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343432.jpg" alt="Screenshot 2" width="300">
+<img src="https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343433.jpg" alt="Screenshot 3" width="300">
+<img src="https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343434.jpg" alt="Screenshot 4" width="300">
+
