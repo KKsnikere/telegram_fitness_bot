@@ -17,3 +17,6 @@ This is a fitness chatbot that provides users with useful tools and information 
 > - Markdown: The bot utilizes Markdown formatting to present information in a clear and organized manner.
 
 ![Alt Text](https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343431.jpg)
+![Alt Text](https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343432.jpg)
+![Alt Text](https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343433.jpg)
+![Alt Text](https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343434.jpg)
