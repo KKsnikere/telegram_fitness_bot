@@ -22,5 +22,6 @@ This is a fitness chatbot that provides users with useful tools and information 
   <br>
   <img src="https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343433.jpg" width="300" />
   <img src="https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343434.jpg" width="300" />
+  <img src="https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1351823.jpg" width="300" />
 </p>
 
