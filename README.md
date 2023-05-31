@@ -19,9 +19,8 @@ This is a fitness chatbot that provides users with useful tools and information 
 <p align="center">
   <img src="https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343431.jpg" width="300" />
   <img src="https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343432.jpg" width="300" />
-  <br>
   <img src="https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343433.jpg" width="300" />
+  <br>
   <img src="https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1343434.jpg" width="300" />
   <img src="https://github.com/KKsnikere/telegram_fitness_bot/blob/main/screenshots/msg631021106-1351823.jpg" width="300" />
 </p>
-
